@@ -1,6 +1,6 @@
 ## Data source
-Dataset used for this project was the World Happiness Report
-The World Happiness Report dataset was pulled from Kaggle and is also on myy [GitHub]https://github.com/JFern930/ia480/blob/main/miniproject/world_happiness_report.csv
+Dataset used for this project was the World Happiness Report.
+The World Happiness Report dataset was pulled from Kaggle and is also on my [GitHub]https://github.com/JFern930/ia480/blob/main/miniproject/world_happiness_report.csv
 
 ## Research Question
 I tried to predict the Happiness Score of countries based on GDP per capita, political stability, mental health, and other factors.
