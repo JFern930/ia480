@@ -15,5 +15,5 @@ I removed any features that have missing values.
 The Happiness_Score variable was selected to be used for modeling.
 
 ## Model Performance
-The R-Square, RMSE, and MSE scores were remarkably low, indicating the difficulty of the model's evaluation of Happiness. This indicated measuring and predicting Happiness is very difficult, and a more tangible variable should be selected for obersvation in the future.
+The R-Square, RMSE, and MSE scores were remarkably low, indicating the difficulty of the model's evaluation of Happiness. This indicated measuring and predicting Happiness is very difficult, and a more tangible variable should be selected for observation in the future.
 ![pic](https://github.com/JFern930/ia480/blob/main/miniproject/Screenshot%202025-03-26%20143851.png)
